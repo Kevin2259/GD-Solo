@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(194, 210, 248);
+}
+
+p {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.video-position {
+  display: flex;
+  justify-content: center;
+}
+
+.video1 {
+  margin-left: 20px;
+  margin-right: 20px;
+}

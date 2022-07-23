@@ -1,0 +1,18 @@
+.main-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 8vh;
+    background: rgb(26, 52, 89);
+    color: rgb(255, 255, 255);
+  }
+  
+  .nav-links {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+  }
+
+  
